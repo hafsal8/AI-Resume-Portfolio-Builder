@@ -6,7 +6,7 @@ and Natural Language Generation (NLG).
 ## Technologies Used
 - Python
 - Google Colab
-- Streamlit (optional UI)
+- Streamlit
 
 ## Features
 - Dynamic resume generation
